@@ -1,0 +1,615 @@
+.desktop {
+    position: relative;
+    width: 1440px;
+    height: 1024px;
+    background-color: #ffffff;
+    overflow: hidden;
+  }
+  
+  .desktop .overlap-group {
+    position: absolute;
+    width: 2106px;
+    height: 1457px;
+    top: -512px;
+    left: -720px;
+  }
+  
+  .desktop .image {
+    position: absolute;
+    width: 1440px;
+    height: 1024px;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .desktop .rectangle {
+    position: absolute;
+    width: 942px;
+    height: 92px;
+    top: 551px;
+    left: 1164px;
+    background-color: #37b1cf;
+    border-radius: 40px;
+    border: 3px solid;
+    border-color: #000000;
+  }
+  
+  .desktop .home-page {
+    position: absolute;
+    top: 572px;
+    left: 1222px;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #ffffff;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .courses {
+    position: absolute;
+    width: 84px;
+    height: 24px;
+    top: 585px;
+    left: 1334px;
+    background-color: #ffffff;
+  }
+  
+  .desktop .games {
+    position: absolute;
+    width: 70px;
+    height: 24px;
+    top: 585px;
+    left: 1479px;
+    background-color: #ffffff;
+  }
+  
+  .desktop .dashboard {
+    position: absolute;
+    width: 109px;
+    height: 24px;
+    top: 585px;
+    left: 1612px;
+    background-color: #ffffff;
+  }
+  
+  .desktop .profile {
+    position: absolute;
+    width: 65px;
+    height: 24px;
+    top: 585px;
+    left: 1801px;
+    background-color: #ffffff;
+  }
+  
+  .desktop .community {
+    position: absolute;
+    width: 116px;
+    height: 24px;
+    top: 585px;
+    left: 1927px;
+    background-color: #ffffff;
+  }
+  
+  .desktop .div {
+    position: absolute;
+    width: 363px;
+    height: 195px;
+    top: 551px;
+    left: 775px;
+    background-color: #37b1cf;
+    border-radius: 40px;
+    border: 3px solid;
+    border-color: #000000;
+  }
+  
+  .desktop .rectangle-2 {
+    position: absolute;
+    width: 1331px;
+    height: 773px;
+    top: 684px;
+    left: 775px;
+    background-color: #f5f5f5;
+    border-radius: 40px;
+    border: 3px solid;
+    border-color: #000000;
+  }
+  
+  .desktop .LANGUAGE-ARCADE {
+    top: 584px;
+    left: 854px;
+    font-size: 36px;
+    position: absolute;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #000000;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .rectangle-3 {
+    position: absolute;
+    width: 779px;
+    height: 92px;
+    top: 711px;
+    left: 1050px;
+    background-color: #37b1cf;
+    border-radius: 40px;
+    border: 3px solid;
+    border-color: #000000;
+  }
+  
+  .desktop .img {
+    position: absolute;
+    width: 175px;
+    height: 101px;
+    top: 384px;
+    left: 121px;
+  }
+  
+  .desktop .rectangle-4 {
+    position: absolute;
+    width: 175px;
+    height: 101px;
+    top: 384px;
+    left: 317px;
+  }
+  
+  .desktop .rectangle-5 {
+    position: absolute;
+    width: 175px;
+    height: 101px;
+    top: 580px;
+    left: 317px;
+  }
+  
+  .desktop .rectangle-6 {
+    position: absolute;
+    width: 175px;
+    height: 101px;
+    top: 771px;
+    left: 317px;
+  }
+  
+  .desktop .rectangle-7 {
+    position: absolute;
+    width: 175px;
+    height: 101px;
+    top: 771px;
+    left: 513px;
+  }
+  
+  .desktop .rectangle-8 {
+    position: absolute;
+    width: 175px;
+    height: 101px;
+    top: 580px;
+    left: 513px;
+  }
+  
+  .desktop .rectangle-9 {
+    position: absolute;
+    width: 175px;
+    height: 101px;
+    top: 384px;
+    left: 513px;
+  }
+  
+  .desktop .rectangle-10 {
+    position: absolute;
+    width: 175px;
+    height: 101px;
+    top: 384px;
+    left: 709px;
+  }
+  
+  .desktop .rectangle-11 {
+    position: absolute;
+    width: 175px;
+    height: 101px;
+    top: 580px;
+    left: 709px;
+  }
+  
+  .desktop .rectangle-12 {
+    position: absolute;
+    width: 175px;
+    height: 101px;
+    top: 771px;
+    left: 709px;
+  }
+  
+  .desktop .rectangle-13 {
+    position: absolute;
+    width: 175px;
+    height: 101px;
+    top: 771px;
+    left: 905px;
+  }
+  
+  .desktop .rectangle-14 {
+    position: absolute;
+    width: 175px;
+    height: 101px;
+    top: 580px;
+    left: 905px;
+  }
+  
+  .desktop .rectangle-15 {
+    position: absolute;
+    width: 175px;
+    height: 101px;
+    top: 384px;
+    left: 905px;
+  }
+  
+  .desktop .rectangle-16 {
+    position: absolute;
+    width: 175px;
+    height: 101px;
+    top: 384px;
+    left: 1101px;
+  }
+  
+  .desktop .rectangle-17 {
+    position: absolute;
+    width: 175px;
+    height: 101px;
+    top: 580px;
+    left: 1101px;
+  }
+  
+  .desktop .rectangle-18 {
+    position: absolute;
+    width: 175px;
+    height: 101px;
+    top: 771px;
+    left: 1101px;
+  }
+  
+  .desktop .rectangle-19 {
+    position: absolute;
+    width: 175px;
+    height: 101px;
+    top: 575px;
+    left: 121px;
+  }
+  
+  .desktop .rectangle-20 {
+    position: absolute;
+    width: 175px;
+    height: 101px;
+    top: 771px;
+    left: 121px;
+  }
+  
+  .desktop .text-wrapper {
+    position: absolute;
+    top: 926px;
+    left: 887px;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #000000;
+    font-size: 32px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .text-wrapper-2 {
+    top: 1122px;
+    left: 869px;
+    font-size: 32px;
+    position: absolute;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #000000;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .text-wrapper-3 {
+    top: 1313px;
+    left: 876px;
+    font-size: 32px;
+    position: absolute;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #000000;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .text-wrapper-4 {
+    top: 1122px;
+    left: 1058px;
+    font-size: 32px;
+    position: absolute;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #000000;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .text-wrapper-5 {
+    top: 1122px;
+    left: 1265px;
+    font-size: 32px;
+    position: absolute;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #000000;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .text-wrapper-6 {
+    top: 1122px;
+    left: 1452px;
+    font-size: 32px;
+    position: absolute;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #000000;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .text-wrapper-7 {
+    top: 1122px;
+    left: 1663px;
+    font-size: 32px;
+    position: absolute;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #000000;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .text-wrapper-8 {
+    position: absolute;
+    top: 1312px;
+    left: 1664px;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #000000;
+    font-size: 32px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .text-wrapper-9 {
+    top: 1313px;
+    left: 1460px;
+    font-size: 32px;
+    position: absolute;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #000000;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .text-wrapper-10 {
+    top: 1313px;
+    left: 1270px;
+    font-size: 32px;
+    position: absolute;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #000000;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .text-wrapper-11 {
+    top: 1313px;
+    left: 1063px;
+    font-size: 32px;
+    position: absolute;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #000000;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .text-wrapper-12 {
+    top: 926px;
+    left: 1045px;
+    font-size: 32px;
+    position: absolute;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #000000;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .text-wrapper-13 {
+    top: 925px;
+    left: 1265px;
+    font-size: 32px;
+    position: absolute;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #000000;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .text-wrapper-14 {
+    top: 925px;
+    left: 1448px;
+    font-size: 32px;
+    position: absolute;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #000000;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .text-wrapper-15 {
+    top: 925px;
+    left: 1628px;
+    font-size: 30px;
+    white-space: nowrap;
+    position: absolute;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #000000;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .text-wrapper-16 {
+    top: 903px;
+    position: absolute;
+    left: 1884px;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #000000;
+    font-size: 70px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .div-2 {
+    position: absolute;
+    width: 49px;
+    height: 85px;
+    top: 1100px;
+    left: 1884px;
+    background-color: #000000;
+  }
+  
+  .desktop .text-wrapper-17 {
+    top: 1289px;
+    position: absolute;
+    left: 1884px;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #000000;
+    font-size: 70px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .text-wrapper-18 {
+    position: absolute;
+    top: 734px;
+    left: 1348px;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #ffffff;
+    font-size: 36px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .frame {
+    width: 1190px;
+    top: 846px;
+    left: 841px;
+    border-radius: 40px;
+    overflow: hidden;
+    position: absolute;
+    height: 34px;
+    background-color: #37b1cf;
+  }
+  
+  .desktop .text-wrapper-19 {
+    position: absolute;
+    top: 4px;
+    left: 24px;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #000000;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .desktop .div-wrapper {
+    width: 1190px;
+    top: 1037px;
+    left: 845px;
+    border-radius: 40px;
+    overflow: hidden;
+    position: absolute;
+    height: 34px;
+    background-color: #37b1cf;
+  }
+  
+  .desktop .frame-2 {
+    width: 1190px;
+    top: 1233px;
+    left: 841px;
+    border-radius: 40px;
+    overflow: hidden;
+    position: absolute;
+    height: 34px;
+    background-color: #37b1cf;
+  }
+  
+  .desktop .text-wrapper-20 {
+    position: absolute;
+    top: 4px;
+    left: 21px;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #000000;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .desktop .frame-3 {
+    width: 1515px;
+    top: 990px;
+    left: -75px;
+    position: absolute;
+    height: 34px;
+    background-color: #37b1cf;
+  }
+  
+  .desktop .p {
+    position: absolute;
+    top: 4px;
+    left: 524px;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #ffffff;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }

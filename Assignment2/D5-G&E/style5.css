@@ -1,0 +1,354 @@
+.desktop {
+    position: relative;
+    width: 1440px;
+    height: 1024px;
+    background-color: #ffffff;
+    overflow: hidden;
+  }
+  
+  .desktop .overlap-group {
+    position: absolute;
+    width: 2106px;
+    height: 1457px;
+    top: -512px;
+    left: -720px;
+  }
+  
+  .desktop .image {
+    position: absolute;
+    width: 1440px;
+    height: 1024px;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .desktop .rectangle {
+    width: 942px;
+    height: 92px;
+    top: 551px;
+    left: 1164px;
+    background-color: #37b1cf;
+    border: 3px solid;
+    position: absolute;
+    border-radius: 40px;
+    border-color: #000000;
+  }
+  
+  .desktop .home-page {
+    position: absolute;
+    width: 63px;
+    height: 48px;
+    top: 573px;
+    left: 1222px;
+    background-color: #ffffff;
+  }
+  
+  .desktop .courses {
+    position: absolute;
+    width: 84px;
+    height: 24px;
+    top: 585px;
+    left: 1334px;
+    background-color: #ffffff;
+  }
+  
+  .desktop .games {
+    position: absolute;
+    width: 70px;
+    height: 24px;
+    top: 585px;
+    left: 1479px;
+    background-color: #ffffff;
+  }
+  
+  .desktop .dashboard {
+    position: absolute;
+    width: 109px;
+    height: 24px;
+    top: 585px;
+    left: 1612px;
+    background-color: #ffffff;
+  }
+  
+  .desktop .profile {
+    position: absolute;
+    width: 65px;
+    height: 24px;
+    top: 585px;
+    left: 1801px;
+    background-color: #ffffff;
+  }
+  
+  .desktop .text-wrapper {
+    position: absolute;
+    top: 584px;
+    left: 1927px;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #ffffff;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .desktop .div {
+    position: absolute;
+    width: 363px;
+    height: 195px;
+    top: 551px;
+    left: 775px;
+    background-color: #37b1cf;
+    border-radius: 40px;
+    border: 3px solid;
+    border-color: #000000;
+  }
+  
+  .desktop .rectangle-2 {
+    width: 1331px;
+    height: 773px;
+    top: 684px;
+    left: 775px;
+    background-color: #f5f5f5;
+    border: 3px solid;
+    position: absolute;
+    border-radius: 40px;
+    border-color: #000000;
+  }
+  
+  .desktop .LANGUAGE-ARCADE {
+    position: absolute;
+    top: 584px;
+    left: 854px;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #000000;
+    font-size: 36px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .rectangle-3 {
+    width: 779px;
+    height: 92px;
+    top: 711px;
+    left: 1050px;
+    background-color: #37b1cf;
+    border: 3px solid;
+    position: absolute;
+    border-radius: 40px;
+    border-color: #000000;
+  }
+  
+  .desktop .rectangle-4 {
+    width: 963px;
+    height: 103px;
+    top: 1257px;
+    left: 959px;
+    background-color: #37b1cfa6;
+    border: 2px solid;
+    position: absolute;
+    border-radius: 40px;
+    border-color: #000000;
+  }
+  
+  .desktop .GAMES-EXERCISES {
+    position: absolute;
+    top: 734px;
+    left: 1248px;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #ffffff;
+    font-size: 36px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .select-one-of-the {
+    position: absolute;
+    width: 764px;
+    top: 1274px;
+    left: 1033px;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #000000;
+    font-size: 32px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .ellipse {
+    top: 919px;
+    left: 854px;
+    position: absolute;
+    width: 240px;
+    height: 239px;
+    background-color: #37b1cf63;
+    border-radius: 120px / 119.5px;
+    border: 2px solid;
+    border-color: #000000;
+  }
+  
+  .desktop .ellipse-2 {
+    top: 930px;
+    left: 868px;
+    position: absolute;
+    width: 240px;
+    height: 239px;
+    background-color: #37b1cf63;
+    border-radius: 120px / 119.5px;
+    border: 2px solid;
+    border-color: #000000;
+  }
+  
+  .desktop .ellipse-3 {
+    top: 919px;
+    left: 1163px;
+    position: absolute;
+    width: 240px;
+    height: 239px;
+    background-color: #37b1cf63;
+    border-radius: 120px / 119.5px;
+    border: 2px solid;
+    border-color: #000000;
+  }
+  
+  .desktop .ellipse-4 {
+    top: 930px;
+    left: 1178px;
+    position: absolute;
+    width: 240px;
+    height: 239px;
+    background-color: #37b1cf63;
+    border-radius: 120px / 119.5px;
+    border: 2px solid;
+    border-color: #000000;
+  }
+  
+  .desktop .ellipse-5 {
+    top: 919px;
+    left: 1481px;
+    position: absolute;
+    width: 240px;
+    height: 239px;
+    background-color: #37b1cf63;
+    border-radius: 120px / 119.5px;
+    border: 2px solid;
+    border-color: #000000;
+  }
+  
+  .desktop .ellipse-6 {
+    top: 930px;
+    left: 1494px;
+    position: absolute;
+    width: 240px;
+    height: 239px;
+    background-color: #37b1cf63;
+    border-radius: 120px / 119.5px;
+    border: 2px solid;
+    border-color: #000000;
+  }
+  
+  .desktop .ellipse-7 {
+    top: 919px;
+    left: 1797px;
+    position: absolute;
+    width: 240px;
+    height: 239px;
+    background-color: #37b1cf63;
+    border-radius: 120px / 119.5px;
+    border: 2px solid;
+    border-color: #000000;
+  }
+  
+  .desktop .ellipse-8 {
+    top: 930px;
+    left: 1810px;
+    position: absolute;
+    width: 240px;
+    height: 239px;
+    background-color: #37b1cf63;
+    border-radius: 120px / 119.5px;
+    border: 2px solid;
+    border-color: #000000;
+  }
+  
+  .desktop .text-wrapper-2 {
+    position: absolute;
+    top: 1018px;
+    left: 883px;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #000000;
+    font-size: 32px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .text-wrapper-3 {
+    position: absolute;
+    top: 1018px;
+    left: 1214px;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #000000;
+    font-size: 32px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .text-wrapper-4 {
+    position: absolute;
+    top: 1018px;
+    left: 1527px;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #000000;
+    font-size: 32px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .text-wrapper-5 {
+    position: absolute;
+    top: 1018px;
+    left: 1829px;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #000000;
+    font-size: 32px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .frame {
+    position: absolute;
+    width: 1515px;
+    height: 34px;
+    top: 990px;
+    left: -75px;
+    background-color: #37b1cf;
+  }
+  
+  .desktop .p {
+    position: absolute;
+    top: 4px;
+    left: 524px;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #ffffff;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }

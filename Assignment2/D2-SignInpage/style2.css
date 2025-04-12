@@ -1,0 +1,295 @@
+.desktop {
+    position: relative;
+    width: 1440px;
+    height: 1024px;
+    background-color: #ffffff;
+    overflow: hidden;
+  }
+  
+  .desktop .overlap-group {
+    position: absolute;
+    width: 2106px;
+    height: 1457px;
+    top: -512px;
+    left: -720px;
+  }
+  
+  .desktop .image {
+    position: absolute;
+    width: 1440px;
+    height: 1024px;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .desktop .rectangle {
+    width: 942px;
+    height: 92px;
+    top: 551px;
+    left: 1164px;
+    background-color: #37b1cf;
+    border: 3px solid;
+    position: absolute;
+    border-radius: 40px;
+    border-color: #000000;
+  }
+  
+  .desktop .home-page {
+    position: absolute;
+    top: 572px;
+    left: 1222px;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #ffffff;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .text-wrapper {
+    position: absolute;
+    top: 584px;
+    left: 1334px;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #ffffff;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .desktop .div {
+    position: absolute;
+    top: 584px;
+    left: 1479px;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #ffffff;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .desktop .text-wrapper-2 {
+    position: absolute;
+    top: 584px;
+    left: 1612px;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #ffffff;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .desktop .text-wrapper-3 {
+    position: absolute;
+    top: 584px;
+    left: 1801px;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #ffffff;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .desktop .text-wrapper-4 {
+    position: absolute;
+    top: 584px;
+    left: 1927px;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #ffffff;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .desktop .rectangle-2 {
+    position: absolute;
+    width: 363px;
+    height: 195px;
+    top: 551px;
+    left: 775px;
+    background-color: #37b1cf;
+    border-radius: 40px;
+    border: 3px solid;
+    border-color: #000000;
+  }
+  
+  .desktop .rectangle-3 {
+    width: 1331px;
+    height: 773px;
+    top: 684px;
+    left: 775px;
+    background-color: #f5f5f5;
+    border: 3px solid;
+    position: absolute;
+    border-radius: 40px;
+    border-color: #000000;
+  }
+  
+  .desktop .LANGUAGE-ARCADE {
+    position: absolute;
+    top: 584px;
+    left: 854px;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #000000;
+    font-size: 36px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .rectangle-4 {
+    width: 779px;
+    height: 92px;
+    top: 711px;
+    left: 1050px;
+    background-color: #37b1cf;
+    border: 3px solid;
+    position: absolute;
+    border-radius: 40px;
+    border-color: #000000;
+  }
+  
+  .desktop .rectangle-5 {
+    width: 280px;
+    height: 81px;
+    top: 1137px;
+    left: 1296px;
+    background-color: #37b1cf;
+    border: 5px solid;
+    position: absolute;
+    border-radius: 40px;
+    border-color: #000000;
+  }
+  
+  .desktop .rectangle-6 {
+    width: 471px;
+    height: 70px;
+    top: 917px;
+    left: 1182px;
+    background-color: #37b1cf63;
+    border: 2px solid;
+    position: absolute;
+    border-radius: 40px;
+    border-color: #000000;
+  }
+  
+  .desktop .rectangle-7 {
+    width: 471px;
+    height: 70px;
+    top: 1019px;
+    left: 1182px;
+    background-color: #37b1cf63;
+    border: 2px solid;
+    position: absolute;
+    border-radius: 40px;
+    border-color: #000000;
+  }
+  
+  .desktop .email-id {
+    position: absolute;
+    width: 123px;
+    height: 39px;
+    top: 932px;
+    left: 1223px;
+    background-color: #000000;
+    opacity: 0.7;
+  }
+  
+  .desktop .password {
+    position: absolute;
+    width: 156px;
+    height: 39px;
+    top: 1032px;
+    left: 1222px;
+    background-color: #000000;
+    opacity: 0.7;
+  }
+  
+  .desktop .text-wrapper-5 {
+    position: absolute;
+    top: 1271px;
+    left: 1308px;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #000000;
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .dont-have-an-account {
+    position: absolute;
+    width: 379px;
+    height: 29px;
+    top: 1301px;
+    left: 1246px;
+    background-color: #000000;
+  }
+  
+  .desktop .text-wrapper-6 {
+    position: absolute;
+    top: 1153px;
+    left: 1375px;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #ffffff;
+    font-size: 36px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .text-wrapper-7 {
+    position: absolute;
+    top: 734px;
+    left: 1327px;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #ffffff;
+    font-size: 36px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .frame {
+    position: absolute;
+    width: 1515px;
+    height: 34px;
+    top: 990px;
+    left: -75px;
+    background-color: #37b1cf;
+  }
+  
+  .desktop .p {
+    position: absolute;
+    top: 4px;
+    left: 524px;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #ffffff;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
